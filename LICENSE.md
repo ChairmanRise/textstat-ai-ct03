@@ -1,4 +1,4 @@
-# 
+# Gratuit TextStat installeur. Téléchargez et installez avec accès à l'API et contrôle de version — rapide, sécurisé et facile à utiliser.
 
 
 
